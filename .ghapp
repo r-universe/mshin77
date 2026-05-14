@@ -1,0 +1,10 @@
+{
+  "id": 132342511,
+  "created_at": "2026-05-14T15:09:01.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["a11yviz", "mshin77.r-universe.dev"]
+}
